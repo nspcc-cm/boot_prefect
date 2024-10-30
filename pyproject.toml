@@ -20,5 +20,9 @@ classifiers = [
     "Environment :: Console",
 ]
 
+[project.urls]
+homepage = "https://github.com/nspcc-cm/boot_prefect"
+repository = "https://github.com/nspcc-cm/boot_prefect.git"
+
 [project.scripts]
 boot_prefect = "boot_prefect.boot_prefect:main"
